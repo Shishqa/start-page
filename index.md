@@ -1,0 +1,23 @@
+<p align="center" font-weight="bold">
+
+<pre>
+     \\XXXXXX//
+      XXXXXXXX
+     //XXXXXX\\                      OOOOOOOOOOOOOOOOOOOO
+    ////XXXX\\\\                     OOOOOOOOOOOOOOOOOOOO
+   //////XX\\\\\\     |||||||||||||||OOOOOOOOOOOOOOOVVVVVVVVVVVVV
+  ////////\\\\\\\\    |!!!|||||||||||OOOOOOOOOOOOOOOOVVVVVVVVVVV'
+ ////////  \\\\\\\\ .d88888b|||||||||OOOOOOOOOOOOOOOOOVVVVVVVVV'
+////////    \\\\\\\d888888888b||||||||||||            'VVVVVVV'
+///////      \\\\\\88888888888||||||||||||             'VVVVV'
+//////        \\\\\Y888888888Y||||||||||||              'VVV'
+/////          \\\\\\Y88888Y|||||||||||||| .             'V'
+////            \\\\\\|iii|||||||||||||||!:::.            '
+///              \\\\\\||||||||||||||||!:::::::.
+//                \\\\\\\\           .:::::::::::.
+/                  \\\\\\\\        .:::::::::::::::.
+                    \\\\\\\\     .:::::::::::::::::::.
+                     \\\\\\\\
+</pre>
+
+</p>
